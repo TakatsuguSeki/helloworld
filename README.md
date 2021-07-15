@@ -22,7 +22,7 @@
 
 [アンカーテキスト](リンクパス)
 
-![代替テキスト](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgigazine.net%2Fnews%2F20201105-github-source-code-leak%2F&psig=AOvVaw3r8n1gyRTEGrUAsfXez6Wn&ust=1626420497932000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCPjMptLG5PECFQAAAAAdAAAAABAD)
+![代替テキスト](https://i.gzn.jp/img/2020/11/05/github-source-code-leak/00.png)
 
 `
 コード入力
